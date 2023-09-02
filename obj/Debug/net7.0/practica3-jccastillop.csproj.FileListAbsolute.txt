@@ -1,0 +1,14 @@
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\bin\Debug\net7.0\practica3-jccastillop.exe
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\bin\Debug\net7.0\practica3-jccastillop.deps.json
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\bin\Debug\net7.0\practica3-jccastillop.runtimeconfig.json
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\bin\Debug\net7.0\practica3-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\bin\Debug\net7.0\practica3-jccastillop.pdb
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.AssemblyInfoInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.AssemblyInfo.cs
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.csproj.CoreCompileInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\refint\practica3-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.pdb
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\practica3-jccastillop.genruntimeconfig.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Practicas\Practica 3 U20230466\practica3-jccastillop\obj\Debug\net7.0\ref\practica3-jccastillop.dll
